@@ -1,0 +1,15 @@
+C:\Users\victu\Downloads\TpMetod\TpMetod\bin\Debug\net6.0\TpMetod.exe
+C:\Users\victu\Downloads\TpMetod\TpMetod\bin\Debug\net6.0\TpMetod.deps.json
+C:\Users\victu\Downloads\TpMetod\TpMetod\bin\Debug\net6.0\TpMetod.runtimeconfig.json
+C:\Users\victu\Downloads\TpMetod\TpMetod\bin\Debug\net6.0\TpMetod.dll
+C:\Users\victu\Downloads\TpMetod\TpMetod\bin\Debug\net6.0\TpMetod.pdb
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\TpMetod.csproj.AssemblyReference.cache
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\TpMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\TpMetod.AssemblyInfoInputs.cache
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\TpMetod.AssemblyInfo.cs
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\TpMetod.csproj.CoreCompileInputs.cache
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\TpMetod.dll
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\refint\TpMetod.dll
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\TpMetod.pdb
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\TpMetod.genruntimeconfig.cache
+C:\Users\victu\Downloads\TpMetod\TpMetod\obj\Debug\net6.0\ref\TpMetod.dll
